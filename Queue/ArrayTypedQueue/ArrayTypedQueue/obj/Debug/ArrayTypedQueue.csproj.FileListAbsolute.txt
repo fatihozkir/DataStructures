@@ -1,0 +1,13 @@
+C:\Users\Pelin\Desktop\AsistanlıkCBU\VeriYapilari\Uygulamalar\4. hafta uygulama queue\5. Queue\ArrayTypedQueue\ArrayTypedQueue\bin\Debug\ArrayTypedQueue.exe.config
+C:\Users\Pelin\Desktop\AsistanlıkCBU\VeriYapilari\Uygulamalar\4. hafta uygulama queue\Queue Implementasyonu\5. Queue\ArrayTypedQueue\ArrayTypedQueue\bin\Debug\ArrayTypedQueue.exe.config
+C:\Users\Pelin\Desktop\AsistanlıkCBU\VeriYapilari\Uygulamalar\4. hafta uygulama queue\Queue Implementasyonu\5. Queue\ArrayTypedQueue\ArrayTypedQueue\bin\Debug\ArrayTypedQueue.exe
+C:\Users\Pelin\Desktop\AsistanlıkCBU\VeriYapilari\Uygulamalar\4. hafta uygulama queue\Queue Implementasyonu\5. Queue\ArrayTypedQueue\ArrayTypedQueue\bin\Debug\ArrayTypedQueue.pdb
+C:\Users\Pelin\Desktop\AsistanlıkCBU\VeriYapilari\Uygulamalar\4. hafta uygulama queue\Queue Implementasyonu\5. Queue\ArrayTypedQueue\ArrayTypedQueue\obj\Debug\ArrayTypedQueue.csprojResolveAssemblyReference.cache
+C:\Users\Pelin\Desktop\AsistanlıkCBU\VeriYapilari\Uygulamalar\4. hafta uygulama queue\Queue Implementasyonu\5. Queue\ArrayTypedQueue\ArrayTypedQueue\obj\Debug\ArrayTypedQueue.Form1.resources
+C:\Users\Pelin\Desktop\AsistanlıkCBU\VeriYapilari\Uygulamalar\4. hafta uygulama queue\Queue Implementasyonu\5. Queue\ArrayTypedQueue\ArrayTypedQueue\obj\Debug\ArrayTypedQueue.Properties.Resources.resources
+C:\Users\Pelin\Desktop\AsistanlıkCBU\VeriYapilari\Uygulamalar\4. hafta uygulama queue\Queue Implementasyonu\5. Queue\ArrayTypedQueue\ArrayTypedQueue\obj\Debug\ArrayTypedQueue.csproj.GenerateResource.Cache
+C:\Users\Pelin\Desktop\AsistanlıkCBU\VeriYapilari\Uygulamalar\4. hafta uygulama queue\Queue Implementasyonu\5. Queue\ArrayTypedQueue\ArrayTypedQueue\obj\Debug\ArrayTypedQueue.exe
+C:\Users\Pelin\Desktop\AsistanlıkCBU\VeriYapilari\Uygulamalar\4. hafta uygulama queue\Queue Implementasyonu\5. Queue\ArrayTypedQueue\ArrayTypedQueue\obj\Debug\ArrayTypedQueue.pdb
+C:\Users\fatma\Desktop\16.03.2016\Veri Yapıları\Queue Implementasyonu\ArrayTypedQueue\ArrayTypedQueue\bin\Debug\ArrayTypedQueue.exe.config
+C:\Users\fatma\Desktop\16.03.2016\Veri Yapıları\Queue Implementasyonu\ArrayTypedQueue\ArrayTypedQueue\obj\Debug\ArrayTypedQueue.exe
+C:\Users\fatma\Desktop\16.03.2016\Veri Yapıları\Queue Implementasyonu\ArrayTypedQueue\ArrayTypedQueue\obj\Debug\ArrayTypedQueue.pdb

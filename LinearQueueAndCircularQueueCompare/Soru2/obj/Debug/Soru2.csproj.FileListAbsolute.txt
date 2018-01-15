@@ -1,0 +1,9 @@
+C:\Users\FatihOzkir\Desktop\VeriYapıları\Soru2\Soru2\bin\Debug\Soru2.exe.config
+C:\Users\FatihOzkir\Desktop\VeriYapıları\Soru2\Soru2\bin\Debug\Soru2.exe
+C:\Users\FatihOzkir\Desktop\VeriYapıları\Soru2\Soru2\bin\Debug\Soru2.pdb
+C:\Users\FatihOzkir\Desktop\VeriYapıları\Soru2\Soru2\obj\Debug\Soru2.csprojResolveAssemblyReference.cache
+C:\Users\FatihOzkir\Desktop\VeriYapıları\Soru2\Soru2\obj\Debug\Soru2.Form1.resources
+C:\Users\FatihOzkir\Desktop\VeriYapıları\Soru2\Soru2\obj\Debug\Soru2.Properties.Resources.resources
+C:\Users\FatihOzkir\Desktop\VeriYapıları\Soru2\Soru2\obj\Debug\Soru2.csproj.GenerateResource.Cache
+C:\Users\FatihOzkir\Desktop\VeriYapıları\Soru2\Soru2\obj\Debug\Soru2.exe
+C:\Users\FatihOzkir\Desktop\VeriYapıları\Soru2\Soru2\obj\Debug\Soru2.pdb

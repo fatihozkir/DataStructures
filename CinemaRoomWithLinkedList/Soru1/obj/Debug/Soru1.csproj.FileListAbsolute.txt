@@ -1,0 +1,10 @@
+C:\Users\FatihOzkir\Desktop\VeriYapıları\Soru1\Soru1\bin\Debug\Soru1.exe.config
+C:\Users\FatihOzkir\Desktop\VeriYapıları\Soru1\Soru1\bin\Debug\Soru1.exe
+C:\Users\FatihOzkir\Desktop\VeriYapıları\Soru1\Soru1\bin\Debug\Soru1.pdb
+C:\Users\FatihOzkir\Desktop\VeriYapıları\Soru1\Soru1\obj\Debug\Soru1.csprojResolveAssemblyReference.cache
+C:\Users\FatihOzkir\Desktop\VeriYapıları\Soru1\Soru1\obj\Debug\Soru1.Properties.Resources.resources
+C:\Users\FatihOzkir\Desktop\VeriYapıları\Soru1\Soru1\obj\Debug\Soru1.csproj.GenerateResource.Cache
+C:\Users\FatihOzkir\Desktop\VeriYapıları\Soru1\Soru1\obj\Debug\Soru1.exe
+C:\Users\FatihOzkir\Desktop\VeriYapıları\Soru1\Soru1\obj\Debug\Soru1.pdb
+C:\Users\FatihOzkir\Desktop\VeriYapıları\Soru1\Soru1\obj\Debug\Soru1.Rezervasyon.resources
+C:\Users\FatihOzkir\Desktop\VeriYapıları\Soru1\Soru1\obj\Debug\Soru1.FrmSalon.resources
